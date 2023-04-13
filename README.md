@@ -5,7 +5,7 @@ Just a personal project for learning purposes. The code is just hacked together,
 A lot is missing from this.
 
 You can comission the device via the Chiptool Android app and toggle a light. That's it.
-(Use chiptool from https://github.com/mfucci/node-matter/tree/main/matter-test-apk)
+(Use chiptool from [here](./android-apk/app-debug.zip))
 
 Use the "PROVISION CHIP DEVICE WITH WIFI", "INPUT DEVICE ADDRESS" and enter the IP address.
 
